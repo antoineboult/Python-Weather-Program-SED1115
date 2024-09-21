@@ -1,4 +1,4 @@
-The program will need to help me answer this question : Since I hate wearing winter boots, what are the months of the year that I would absolutely hate?
+The program answers this question : Since I hate wearing winter boots, what are the months of the year that I would absolutely hate?
 you can find my python and my csv files for this python weather program. My program reads through specific columns of the csv file that I consider important for the purpose of my program
 The columns that I find important are : Day, Month, Snowfall, Groundsnow
 All of these serve a purpose for my program since I need to determine if each day of the year is considered a day where I need to wear winter boots. 
