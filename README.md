@@ -2,7 +2,7 @@ The program answers this question : Since I hate wearing winter boots, what are 
 you can find my python and my csv files for this python weather program. My program reads through specific columns of the csv file that I consider important for the purpose the question.
 The columns that I find important are : Day, Month, Snowfall, Groundsnow
 All of these serve a purpose for my program since I need to determine if each day of the year is considered a day where I need to wear winter boots. 
-It reads month by month, day by day. (Use of Day, Month).
+It reads month by month, day by day (the use of Day, Month).
 Than I need to have a bootday count that will help to determine if the month is a month that I would hate. 
 To be a bootday (add 1 to the count), the values of the day has to follow these conditions : SnowfallList > 0 or GroundsnowList > 0.
 After each month, if it's bootcount is > 5 bootdays, the value of the month gets appended to the hatedmonths list.
